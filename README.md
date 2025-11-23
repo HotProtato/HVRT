@@ -303,7 +303,7 @@ grid.fit(X_reduced, y_reduced)
 
 Results from validation experiments with SVM feasibility testing on 10k samples:
 
-| Scenario | Reduction | H-VRT Accuracy | Random Accuracy | Speedup | SNR Retention |
+| Scenario | Retention | H-VRT Accuracy | Random Accuracy | Speedup | SNR Retention |
 |----------|-----------|---------------|-----------------|---------|---------------|
 | Well-behaved | 20% | 93.9% | 95.3% | 23.5x | **126.2%** |
 | Heavy-tailed | 20% | **106.6%** | 85.3% | 24.0x | **130.1%** |
