@@ -1,5 +1,6 @@
 # H-VRT: Hierarchical Variance Reduction Tree
 
+[![PyPI version](https://img.shields.io/pypi/v/hvrt.svg)](https://pypi.org/project/hvrt/)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -15,6 +16,8 @@ Unlike random sampling which treats all samples equally, H-VRT optimizes for **e
 - **Hybrid mode** for heavy-tailed data and rare events
 
 ## Installation
+
+Install from [PyPI](https://pypi.org/project/hvrt/):
 
 ```bash
 pip install hvrt

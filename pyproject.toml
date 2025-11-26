@@ -8,16 +8,15 @@ version = "0.1.0"
 description = "Hierarchical Variance Reduction Tree (H-VRT) for intelligent sample reduction"
 readme = "README.md"
 requires-python = ">=3.8"
-license = {text = "MIT"}
+license = "MIT"
 authors = [
-    {name = "Jake Peace"}
+    {name = "Jake Peace", email = "mail@jakepeace.me"}
 ]
 keywords = ["machine-learning", "sample-reduction", "data-preprocessing", "svm", "variance", "heavy-tailed"]
 classifiers = [
     "Development Status :: 3 - Alpha",
     "Intended Audience :: Science/Research",
     "Intended Audience :: Developers",
-    "License :: OSI Approved :: MIT License",
     "Programming Language :: Python :: 3",
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
